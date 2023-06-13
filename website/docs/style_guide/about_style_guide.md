@@ -47,7 +47,7 @@ Here are some good basic guidelines for formatting your Robot Framework code. As
 ```
 
 - Keywords within resource files should be alphabetized or organized by functionality or purpose. The important part is to organize keywords in a thoughtful manner.
-- The recommended minimum maximum line length is 120.
+- The recommended maximum line length is 120.
 - It is reasonable to split a variable definition across multiple lines when it exceeds the recommended line length, or for the better readability of the code. See [Dividing data to several rows](https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html#test-data-syntax)
 - Variable Syntax from the user guide [variable-priorities-and-scopes](https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html#variable-priorities-and-scopes)
 
